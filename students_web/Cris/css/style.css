@@ -1,0 +1,78 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+html{
+  font-size: 63%;
+}
+body{
+    font-family: 'Playfair Display', serif;
+    box-sizing: content-box;
+    font-size: 1.6rem;
+    background-color: none;
+}
+.navbar{
+    background-color: none;
+    padding: 3rem;
+    text-align: center;
+    font-size: 2.2rem;
+    font-style: oblique;
+    font
+
+}
+.list-item{
+    display: inline;
+    margin-right: 2rem;
+    border-right: 1px double
+}
+.fa-car{
+    display:inline;
+    color: black;
+}
+.main{
+    background-image: url('../img/nightsky.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    
+}
+.main__form{
+    background-color: rgb(225,225,225);
+padding: 4.5rem, 2.5rem;
+width: 20rem;
+padding: 3rem;
+position:absolute;
+top: 35%;
+position: absolute;
+top:30%;
+left:40%;
+}
+.main__title{
+ text-align: center;
+ color: rgb(241, 248, 241);
+ font-size: 4.5rem;
+ font-weight: 700;
+ padding: 6rem;
+}
+.main__input{
+border: none;
+background: ;
+border-bottom: 2px solid;
+padding: 10px;
+font: 2rem;
+}
+.main__input:focus{
+
+}
+.btn{
+    margin-top: 2.2rem;
+    font-size: 1.6rem;
+    margin-top: 4rem;
+    background: whitesmoke;
+    border: 3px solid;
+    border-radius: 10px;
+}
+.btn:hover{
+    background-color: black;
+}
